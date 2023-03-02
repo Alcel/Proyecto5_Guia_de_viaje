@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Proyecto5_Guía de viaje</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Creador">Creador</string>
+    <string name="Serie">Serie</string>
+    <string name="Imagen">Imagen</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Volver">Volver</string>
+    <string name="Borrar">Borrar</string>
+    <string name="Persoajes">Sin Personajes</string>
+    <string name="eleccion">Elija un medio</string>
+    <string name="camara">Camara</string>
+    <string name="almacenamiento">Almacenamiento interno</string>
+</resources>
